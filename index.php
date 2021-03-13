@@ -1,3 +1,3 @@
 <?php
-print "welcome ANULEKHA. WELCOME TO ANKIT WORLD";
+print "WELCOME TO ANKIT WORLD";
 ?>
